@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oioi! Sou a Bruna, como vai? ✨
 
-<!--
-**Filgueiras7/Filgueiras7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href = "
+![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filgueiras7&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filgueiras7&layout=pie)](https://github.com/Filgueiras7/github-readme-stats)
+</div>
 
-Here are some ideas to get you started:
+Aqui estão meus contatos :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)]((https://www.linkedin.com/in/bruna-filgueiras-702275211/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/brunafilgueiras_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bruna.techz@gmail.com)
